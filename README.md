@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Eyob. | Full-Stack Developer
+# 👨‍💻 Hi, I'm Eyob. | Full-Stack Dev
 
 🚀 **Building seamless web experiences**  
 📍 Based in Ethiopia.  
