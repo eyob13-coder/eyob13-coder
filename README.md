@@ -5,7 +5,7 @@
 📫 **Reach me:** eyobgeremew618@gmail.com | **[LinkedIn](https://www.linkedin.com/in/eyob-geremew-1a7b53302)**  
 
 ### 🎬 Featured Project: [Movie Web App](https://github.com/eyob13-coder/movieverse)
-⚡ **React + TMDB API + Appwrite** stack  
+⚡ **React + TMDB API + Appwrite**  
 ✨ Features:  
 - User authentication  
 - Movie search & ratings  
@@ -24,8 +24,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eyob13-coder&theme=dark)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyob13-coder&layout=compact&theme=radical&hide=html,css)
 
  
 
