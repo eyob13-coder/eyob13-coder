@@ -5,7 +5,7 @@
 📫 **Reach me:** eyobgeremew618@gmail.com | **[LinkedIn](https://www.linkedin.com/in/eyob-geremew-1a7b53302)**  
 
 ### 🎬 Featured Project: [Movie Web App](https://github.com/eyob13-coder/movieverse)
-⚡ **Next.js + Node.js + MongoDB** stack  
+⚡ **React + TMDB API + Appwrite** stack  
 ✨ Features:  
 - User authentication  
 - Movie search & ratings  
