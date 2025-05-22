@@ -32,3 +32,5 @@
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/eyob-geremew-1a7b53302)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/Eyob_Geremew_)
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/eyob13-coder/YOUR_REPO_ID&label=Profile%20Views&query=value&color=blue)
